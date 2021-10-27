@@ -10,7 +10,7 @@ The Application shows price graphs for BTC and ETH for Coinbase and Binance aswe
 * In a new terminal run `git clone https://github.com/alecvaldez/BTC_ETH-Viewer/`
 * CD into the folder with `cd BTC_ETH-Viewer`
 * Run the build with `mvn clean install`
-* Deploy with `java -c target/coin.viewer-0.0.1-SNAPSHOT.jar`
+* Deploy with `java -jar target/coin.viewer-0.0.1-SNAPSHOT.jar`
 * Visit application on any browser at `localhost:8080`
 
 ## Build and Deploy with NPM
