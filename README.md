@@ -19,10 +19,3 @@ The Application shows price graphs for BTC and ETH for Coinbase and Binance aswe
 * Run `npm install`
 * Deploy with `npm run start`
 * Visit application on any browser at `localhost:3000`
-
-## Build and Deploy with NPM
-* In a new terminal run `git clone https://github.com/alecvaldez/BTC_ETH-Viewer/`
-* CD into the folder with `cd BTC_ETH-Viewer/src/main/frontend/`
-* Run `npm install`
-* Deploy with `npm run start`
-* Visit application on any browser at `localhost:3000`
